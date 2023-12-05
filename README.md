@@ -23,9 +23,6 @@ Thank you for choosing Maqadear! We respect your privacy and are committed to pr
 
 ## 3. Information Sharing:
 
-**a. Third-Party Service Providers:**
-- We share data with trusted third-party service providers for hosting, analytics, and customer support purposes.
-
 **b. Legal Compliance:**
 - Information may be disclosed to comply with legal requirements or protect our rights.
 
